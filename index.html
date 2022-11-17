@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="reveal.js/dist/reveal.css">
+    <link rel="stylesheet" href="reveal.js/dist/theme/white.css">
+	<link rel="stylesheet" href="css/highlight/atom-one-light.css">
+	<link rel="stylesheet" href="css/customizations.css">
+	<link rel="stylesheet" href="css/fonts/fontawesome/css/fontawesome.min.css">
+</head>
+
+<body>
+
+    <div class="reveal">
+        <div class="slides">
+            <section data-markdown="slides.md"
+                 data-separator="^--$"
+                 data-separator-vertical="^---$"
+                 data-separator-notes="^Note:"
+                 data-charset="UTF-8">
+            </section>
+            <section>
+            <h2>Blocks</h2>
+            <div class="w3-row">
+            <div class="w3-col m4">
+            <ul class="xx-small"><li><p>New reserved Java type <code>var</code></p></li><li><p><em>„real type“</em> inferred by compiler <strong>on first initialization</strong></p></li><li><p>can denote classes (<code>Integer</code>) &amp; primitives (<code>int</code>)</p></li><li><p><strong>only</strong>  available for <em>local variables</em></p></li></ul>
+            </div>
+            <div class="w3-col m8">
+            <pre class="xxxx-small highlight listingblock source col2"><code data-noescape="" class="java language-java hljs">/**
+ * @author John Smith &lt;john.smith@example.com&gt;
+*/
+package l2f.gameserver.model;
+
+public abstract strictfp class L2Char extends L2Object {
+  public static final Short ERROR = 0x0001;
+
+  public void moveTo(int x, int y, int z) {
+    _ai = null;
+    log(&quot;Should not be called&quot;);
+    if (1 &gt; 5) { // wtf!?
+      return;
+    }
+  }
+}</code></pre>
+            </div>
+            
+            </div>
+            </section>
+            <section data-markdown="credits.md"
+                 data-separator="^--$"
+                 data-separator-vertical="^---$"
+                 data-separator-notes="^Note:"
+                 data-charset="UTF-8">
+            </section>
+        </div>
+    </div>
+    <script src="reveal.js/dist/reveal.js"></script>
+    <script src="reveal.js/plugin/notes/notes.js"></script>
+    <script src="reveal.js/plugin/markdown/markdown.js"></script>
+    <script src="reveal.js/plugin/highlight/highlight.js"></script>
+    <script src="reveal.js/plugin/zoom/zoom.js"></script>
+    <script src="reveal.js/plugin/math/math.js"></script>
+    <script>
+      // More info about initialization & config:
+      // - https://revealjs.com/initialization/
+      // - https://revealjs.com/config/
+      Reveal.initialize({
+        width: 1200,
+        height: 700,
+        hash: true,
+
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom, RevealMath.KaTeX ],
+        // Options which are passed into marked
+	// See https://marked.js.org/#/USING_ADVANCED.md#options
+	markdown: {
+		smartypants: true
+	}
+      });
+    </script>
+    <!--https://github.com/hakimel/reveal.js/issues/806-->
+	<style type="text/css">
+		/* 1. Style header/footer <div> so they are positioned as desired. */
+		#header-left {
+		    position: absolute;
+		    top: 0%;
+		    left: 0%;
+		}
+		#header-right {
+		    position: absolute;
+		    top: 0%;
+		    right: 0%;
+		}
+		#footer-left {
+		    position: absolute;
+		    bottom: 0%;
+		    left: 0%;
+		}
+	</style>
+
+	<!-- 2. Create hidden header/footer <div> -->
+	<div id="hidden" style="display:none;">
+		<div id="header">
+		    <div id="header-left"></div>
+		    <div id="header-right"></div>
+		    <div id="footer-left"></div>
+		</div>
+	</div>
+
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+	<script type="text/javascript">
+		// 3. On Reveal.js ready event, copy header/footer <div> into each `.slide-background` <div>
+		var header = $('#header').html();
+		if ( window.location.search.match( /print-pdf/gi ) ) {
+		    Reveal.addEventListener( 'ready', function( event ) {
+		        $('.slide-background').append(header);
+		    });
+		}
+		else {
+		    $('div.reveal').append(header);
+	   }
+	</script>
+  </body>
+
+</html>
+

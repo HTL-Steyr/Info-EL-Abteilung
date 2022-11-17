@@ -1,0 +1,42 @@
+li.co {
+	font-size:0.67em;
+	list-style-type: none;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+li.mdfa {
+	list-style-type: none;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+.reveal i{
+    font-family: 'FontAwesome';
+    font-style: normal;
+}
+.mdfa {
+    font-family: 'FontAwesome';
+    font-style: normal;
+}
+.x-small{
+font-size: 0.83em !important;
+}
+.xx-small{
+font-size: 0.70em !important;
+}
+.xxx-small{
+font-size: 0.58em !important;
+}
+.xxxx-small{
+font-size: 0.48em !important;
+}
+.decent{
+color: #808080a0;
+}
+.reveal p code , li code{
+border-radius: 5px;
+/*padding: 1px 3px;
+*/border: 1px solid rgba(255,255,255,.4);
+background: #40404040;
+white-space: nowrap;
+}
+
