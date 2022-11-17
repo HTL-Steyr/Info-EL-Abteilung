@@ -1,19 +1,15 @@
-# Mangas 
-
---
-
-## yooo
+# Vorstellung Elektronik Abteilung 
 
 ---
 
-## Quotes
+## Allgemeine Informationen
 
 > Quotes are ~~hard~~ easy
 > to write - but you can use `code`
 
----
+--
 
-## Styles
+## Stundentafel
 
 You can freely mix **bold**, *italics*, `code` and normal styles
 
@@ -24,11 +20,11 @@ You can freely mix **bold**, *italics*, `code` and normal styles
 
 --
 
-## Lists
+## Projekte
 
----
+--
 
-## Unordered Lists
+## Klassen
 
 * a
 * b
