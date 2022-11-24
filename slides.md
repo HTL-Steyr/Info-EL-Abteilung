@@ -8,12 +8,8 @@
 > to write - but you can use `code`
 
 --
-
 ## Stundentafel
-
 ![image](https://user-images.githubusercontent.com/67701825/203756287-1bcfd1ea-d752-4bdd-94b1-25d8cf4dadb4.png)
-
---
 
 ## Projekte
 
