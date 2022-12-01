@@ -15,7 +15,8 @@
 * Energiemanagment & Green IT
 
 ---
-## Multimedia Systeme & Web IT
+<section class="r-fit-text">
+<h1>Multimedia Systeme & Web IT</h1>
 Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
 
 * Internet-Technologie
@@ -30,7 +31,7 @@ Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
   * mit geeigneten Werkzeugen Audio-Aufnahmen durchführen und nachbearbeiten
   * Komprimierungsverfahren für Video kennen und deren Ausgabemöglichkeiten auf unterschiedlichen Medien und Plattformen anwenden
   * ein Videoschnittprogramm in den Grundzügen bedienen
- 
+ </section>
 ---
 ## Energiemanagmnet & Green IT
 Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
