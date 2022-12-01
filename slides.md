@@ -1,6 +1,6 @@
 # Vorstellung Elektronik Abteilung 
 
---
+---
 
 ## Allgemeine Informationen
 
@@ -9,12 +9,12 @@
 ## Stundentafel
 ![image](https://user-images.githubusercontent.com/67701825/203756287-1bcfd1ea-d752-4bdd-94b1-25d8cf4dadb4.png)
 
---
+---
 ## Wahlfächer ab 4  Jahrgang
 * Multimedia Stysteme & Web IT
 * Energiemanagment & Green IT
 
----
+--
 ## Multimedia Systeme & Web IT
 Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
 
@@ -34,7 +34,7 @@ Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
   * Komprimierungsverfahren für Video kennen und deren Ausgabemöglichkeiten auf unterschiedlichen Medien und Plattformen anwenden
   * ein Videoschnittprogramm in den Grundzügen bedienen
  
----
+--
 ## Energiemanagmnet & Green IT
 Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
 
