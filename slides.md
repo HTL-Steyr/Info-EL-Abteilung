@@ -18,21 +18,41 @@
 ## Multimedia Systeme & Web IT
 Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
 
-#### Internet-Technologie
+* Internet-Technologie
 
-* grundlegende Netzwerkdienste installieren, konfigurieren und warten
-* mit Hilfe aktueller Analysetools Fehler im laufenden Betrieb lokalisieren und beheben
+  * grundlegende Netzwerkdienste installieren, konfigurieren und warten
+  * mit Hilfe aktueller Analysetools Fehler im laufenden Betrieb lokalisieren und beheben
 
-#### Web-Design
+* Web-Design
 
-* grundlegende statische und dynamische Webseiten erstellen, veröffentlichen und warten
+  * grundlegende statische und dynamische Webseiten erstellen, veröffentlichen und warten
 
-#### Audio- und Videosysteme
+* Audio- und Videosysteme
 
-* die wichtigsten Grundlagen der Akustik kennen
-* mit geeigneten Werkzeugen Audio-Aufnahmen durchführen und nachbearbeiten
-* Komprimierungsverfahren für Video kennen und deren Ausgabemöglichkeiten auf unterschiedlichen Medien und Plattformen anwenden
-* ein Videoschnittprogramm in den Grundzügen bedienen
+  * die wichtigsten Grundlagen der Akustik kennen
+  * mit geeigneten Werkzeugen Audio-Aufnahmen durchführen und nachbearbeiten
+  * Komprimierungsverfahren für Video kennen und deren Ausgabemöglichkeiten auf unterschiedlichen Medien und Plattformen anwenden
+  * ein Videoschnittprogramm in den Grundzügen bedienen
+ 
+---
+## Energiemanagmnet & Green IT
+Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
+
+* Erneuerbare Energiequellen
+
+  * Arten und Eigenschaften erneuerbarer Energiequellen sowie Verfahren zu deren Nutzung kennen
+  * die Verfahren der Energieaufbereitung ökologisch und technisch klassifizieren und quantitativ beurteilen
+
+* Energiespartechnologien
+  
+  * kontinuierlich und systematisch Energieeinsparpotenziale erkennen und umsetzen
+  * die ökologische Gesamtbilanz von Produkten der Elektronik über ihren Lebenszyklus beurteilen
+
+* Green Design, Ökoelektronik
+
+  * Wirkungsgradoptimierung
+  * Energieoptimierung durch Automatisierung
+  * Ökoelektronik; umweltfreundliche Herstellung bzw. Entsorgung von Produkten der Elektronik
 --
 ## Aufgaben
 
