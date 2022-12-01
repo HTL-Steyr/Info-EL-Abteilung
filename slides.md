@@ -18,16 +18,16 @@
 ## Multimedia Systeme & Web IT
 Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
 
-### Internet-Technologie
+#### Internet-Technologie
 
 * grundlegende Netzwerkdienste installieren, konfigurieren und warten
 * mit Hilfe aktueller Analysetools Fehler im laufenden Betrieb lokalisieren und beheben
 
-### Web-Design
+#### Web-Design
 
 * grundlegende statische und dynamische Webseiten erstellen, veröffentlichen und warten
 
-### Audio- und Videosysteme
+#### Audio- und Videosysteme
 
 * die wichtigsten Grundlagen der Akustik kennen
 * mit geeigneten Werkzeugen Audio-Aufnahmen durchführen und nachbearbeiten
