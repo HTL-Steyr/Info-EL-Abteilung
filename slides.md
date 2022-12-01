@@ -1,22 +1,46 @@
 # Vorstellung Elektronik Abteilung 
 
----
+--
 
 ## Allgemeine Informationen
 
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
 
---
+---
 ## Stundentafel
 ![image](https://user-images.githubusercontent.com/67701825/203756287-1bcfd1ea-d752-4bdd-94b1-25d8cf4dadb4.png)
 
+--
+## Wahlfächer ab 4  Jahrgang
+* Multimedia Stysteme & Web IT
+* Energiemanagment & Green IT
+
+---
+## Multimedia Systeme & Web IT
+Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
+
+### Internet-Technologie
+
+* grundlegende Netzwerkdienste installieren, konfigurieren und warten
+* mit Hilfe aktueller Analysetools Fehler im laufenden Betrieb lokalisieren und beheben
+
+### Web-Design
+
+* grundlegende statische und dynamische Webseiten erstellen, veröffentlichen und warten
+
+### Audio- und Videosysteme
+
+* die wichtigsten Grundlagen der Akustik kennen
+* mit geeigneten Werkzeugen Audio-Aufnahmen durchführen und nachbearbeiten
+* Komprimierungsverfahren für Video kennen und deren Ausgabemöglichkeiten auf unterschiedlichen Medien und Plattformen anwenden
+* ein Videoschnittprogramm in den Grundzügen bedienen
+--
 ## Aufgaben
 
-designen Hardware
-entwickeln Software
-managen Netzwerke
---
+In dem Zweig Elektronik-IT wird
+* Hardware designt
+* Software entwickelt
+* Netzwerke gemanagt
+---
 
 ## Klassen
 
@@ -27,61 +51,15 @@ managen Netzwerke
     * I
 * c
 
----
-
-## Ordered Lists
-
-automatic numbering
-
-1. a
-1. b
-    1. 1
-    1. 2
-1. c
-
----
-
-## Ordered Lists
-
-custom numbering
-
-1. a  
-2. b  
-    2.1. 1  
-    2.2. 2  
-3. c
-
----
-
-## Definition Lists
-
-(actually: line breaks in long lines in lists...)
-
-* First Term  
-This is the definition of the first term.
-* Second Term  
-This is one definition of the second term.  
-This is another definition of the second term.
-
----
-
-## Font Awesome
-
-*  Itym One<!-- .element: class="mdfa fa-info-circle"--> (this is a feature test in a very long item)
-*  Itym Two<!-- .element: class="mdfa fa-question-circle"-->
-*  Itym Three<!-- .element: class="mdfa fa-exclamation-circle"-->
-*  Itym 4<!-- .element: class="mdfa fa-exclamation-triangle"-->  
-with forced line break!
-
 --
 
 ## Zukunftsmöglichkeiten
 
 Die Zukunftstechnologien Elektronik und Technische Informatik sind Basis für
-Steuerungs- und Automatisierungstechnik,
-Telekommunikation und Mobilfunktechnik,
-Computer- und Netzwerktechnik, Sicherheits- und Fahrzeugtechnik,
-Medizin- und Umwelttechnik und vieles andere mehr.
+* Steuerungs- und Automatisierungstechnik,
+* Telekommunikation und Mobilfunktechnik,
+* Computer- und Netzwerktechnik, Sicherheits- und Fahrzeugtechnik,
+* Medizin- und Umwelttechnik und vieles andere mehr.
 
 ---
 
