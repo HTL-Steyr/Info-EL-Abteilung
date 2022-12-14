@@ -10,13 +10,13 @@
 ![image](https://user-images.githubusercontent.com/67701825/203756287-1bcfd1ea-d752-4bdd-94b1-25d8cf4dadb4.png)
 
 --
-<!-- .slide:  data-transition="fade-in fade-out"-->
+<!-- .slide:  data-transition="convex-in concave-out"-->
 ## Wahlfächer ab 4  Jahrgang
 * Multimedia Stysteme & Web IT
 * Energiemanagment & Green IT
 
 ---
-<!-- .slide:  data-transition="fade-in fade-out"-->
+<!-- .slide:  data-transition="convex-in concave-out"-->
 ## Multimedia Systeme & Web IT
 Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
 
@@ -25,7 +25,7 @@ Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
   * mit Hilfe aktueller Analysetools Fehler im laufenden Betrieb lokalisieren und beheben
 
 ---
-<!-- .slide:  data-transition="fade-in fade-out"-->
+<!-- .slide:  data-transition="convex-in concave-out"-->
 * Web-Design
   * grundlegende statische und dynamische Webseiten erstellen, veröffentlichen und warten
 
@@ -36,7 +36,7 @@ Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
   * ein Videoschnittprogramm in den Grundzügen bedienen
  
 ---
-<!-- .slide:  data-transition="fade-in fade-out"-->
+<!-- .slide:  data-transition="convex-in concave-out"-->
 ## Energiemanagmnet & Green IT
 Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
 
@@ -46,7 +46,7 @@ Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
   * die Verfahren der Energieaufbereitung ökologisch und technisch klassifizieren und quantitativ beurteilen
 
 ---
-<!-- .slide:  data-transition="fade-in fade-out"-->
+<!-- .slide:  data-transition="convex-in concave-out"-->
 * Energiespartechnologien
   
   * kontinuierlich und systematisch Energieeinsparpotenziale erkennen und umsetzen
