@@ -22,6 +22,7 @@ Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
   * grundlegende Netzwerkdienste installieren, konfigurieren und warten
   * mit Hilfe aktueller Analysetools Fehler im laufenden Betrieb lokalisieren und beheben
 
+---
 * Web-Design
   * grundlegende statische und dynamische Webseiten erstellen, veröffentlichen und warten
 
@@ -40,6 +41,7 @@ Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
   * Arten und Eigenschaften erneuerbarer Energiequellen sowie Verfahren zu deren Nutzung kennen
   * die Verfahren der Energieaufbereitung ökologisch und technisch klassifizieren und quantitativ beurteilen
 
+---
 * Energiespartechnologien
   
   * kontinuierlich und systematisch Energieeinsparpotenziale erkennen und umsetzen
