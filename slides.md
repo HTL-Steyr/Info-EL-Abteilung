@@ -22,14 +22,13 @@
 Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
 
 * Internet-Technologie
-  * grundlegende Netzwerkdienste installieren, konfigurieren und warten
+  * Grundlegende Netzwerkdienste installieren und konfigurieren
 
 * Web-Design
-  * grundlegende statische und dynamische Webseiten erstellen, veröffentlichen und warten
+  * Grundlegende statische und dynamische Webseiten erstellen
 
 * Audio- und Videosysteme
-  * die wichtigsten Grundlagen der Akustik kennen
-  * ein Videoschnittprogramm in den Grundzügen bedienen
+  * Ein Videoschnittprogramm in den Grundzügen bedienen
  
 ---
 <section class="r-fit-text">
@@ -37,14 +36,13 @@ Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
 Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
 
 * Erneuerbare Energiequellen
-  * Arten und Eigenschaften erneuerbarer Energiequellen sowie Verfahren zu deren Nutzung kennen
+  * Arten und Eigenschaften erneuerbarer Energiequellen lernen
 
 * Energiespartechnologien
   * Energieeinsparpotenziale erkennen und umsetzen
   * Produkte der Elektronik über ihren Lebenszyklus beurteilen
 
 * Green Design, Ökoelektronik
-  * Wirkungsgradoptimierung
   * Energieoptimierung durch Automatisierung
 --
 ## Aufgaben
