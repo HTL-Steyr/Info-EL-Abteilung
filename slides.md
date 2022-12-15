@@ -16,6 +16,7 @@
 * Energiemanagment & Green IT
 
 ---
+<!-- .slide:  data-transition="convex-in concave-out"-->
 <section class="r-fit-text">
 <h1>Multimedia Systeme & Web IT</h1>
 Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
