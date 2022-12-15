@@ -53,7 +53,7 @@ In dem Zweig Elektronik-IT wird
 * Software entwickelt <!-- .element: class="fragment" data-fragment-index="2" -->
 * Netzwerke gemanaged <!-- .element: class="fragment" data-fragment-index="3" -->
 --
-<section class="r-fit-text center">
+
 ## Zukunftsmöglichkeiten
 
 Die Zukunftstechnologien Elektronik und Technische Informatik sind Basis für
