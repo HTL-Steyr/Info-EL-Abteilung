@@ -37,18 +37,15 @@ Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
 Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
 
 * Erneuerbare Energiequellen
-
   * Arten und Eigenschaften erneuerbarer Energiequellen sowie Verfahren zu deren Nutzung kennen
-  * die Verfahren der Energieaufbereitung ökologisch und technisch klassifizieren und quantitativ beurteilen
 
 * Energiespartechnologien
-  * kontinuierlich und systematisch Energieeinsparpotenziale erkennen und umsetzen
-  * die ökologische Gesamtbilanz von Produkten der Elektronik über ihren Lebenszyklus beurteilen
+  * Energieeinsparpotenziale erkennen und umsetzen
+  * Produkte der Elektronik über ihren Lebenszyklus beurteilen
 
 * Green Design, Ökoelektronik
   * Wirkungsgradoptimierung
   * Energieoptimierung durch Automatisierung
-  * Ökoelektronik; umweltfreundliche Herstellung bzw. Entsorgung von Produkten der Elektronik
 --
 ## Aufgaben
 
