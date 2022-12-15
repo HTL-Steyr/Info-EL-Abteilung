@@ -29,7 +29,6 @@ Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
 
 * Audio- und Videosysteme
   * Ein Videoschnittprogramm in den Grundzügen bedienen
- 
 ---
 <!-- .slide:  data-transition="convex-in concave-out"-->
 <section class="r-fit-text center">
