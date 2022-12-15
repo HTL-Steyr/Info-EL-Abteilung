@@ -31,6 +31,7 @@ Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
   * Ein Videoschnittprogramm in den Grundzügen bedienen
  
 ---
+<!-- .slide:  data-transition="convex-in concave-out"-->
 <section class="r-fit-text">
 <h1>Energiemanagmnet & Green IT</h1>
 Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
