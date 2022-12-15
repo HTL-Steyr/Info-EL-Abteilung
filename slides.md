@@ -3,7 +3,7 @@
 --
 
 ## Allgemeine Informationen
-
+* Die Abteilung für Elektronik und Technische Informatik bildet in modernst ausgestatteten Werkstätten, Labor- und Konstruktionsräumen anerkannt gute und gefragte Hard- und Softwarespezialisten aus.
 
 --
 ## Stundentafel
