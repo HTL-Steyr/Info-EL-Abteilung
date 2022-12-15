@@ -7,7 +7,7 @@
 
 --
 ## Stundentafel
-<img src="https://user-images.githubusercontent.com/67701825/203756287-1bcfd1ea-d752-4bdd-94b1-25d8cf4dadb4.png" height="628" width="594" class="center">
+<img src="https://user-images.githubusercontent.com/67701825/203756287-1bcfd1ea-d752-4bdd-94b1-25d8cf4dadb4.png" height="580" width="550" class="center">
 
 --
 <!-- .slide:  data-transition="convex-in concave-out"-->
