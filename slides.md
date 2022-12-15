@@ -17,7 +17,7 @@
 
 ---
 <!-- .slide:  data-transition="convex-in concave-out"-->
-<section class="r-fit-text">
+<section class="r-fit-text center">
 <h1>Multimedia Systeme & Web IT</h1>
 Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
 
@@ -32,7 +32,7 @@ Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
  
 ---
 <!-- .slide:  data-transition="convex-in concave-out"-->
-<section class="r-fit-text">
+<section class="r-fit-text center">
 <h1>Energiemanagmnet & Green IT</h1>
 Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
 
