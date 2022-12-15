@@ -10,6 +10,7 @@
 ![image](https://user-images.githubusercontent.com/67701825/203756287-1bcfd1ea-d752-4bdd-94b1-25d8cf4dadb4.png)
 
 --
+<!-- .slide:  data-transition="convex-in concave-out"-->
 ## Wahlfächer ab 4  Jahrgang
 * Multimedia Stysteme & Web IT
 * Energiemanagment & Green IT
@@ -31,8 +32,9 @@ Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
   * mit geeigneten Werkzeugen Audio-Aufnahmen durchführen und nachbearbeiten
   * Komprimierungsverfahren für Video kennen und deren Ausgabemöglichkeiten auf unterschiedlichen Medien und Plattformen anwenden
   * ein Videoschnittprogramm in den Grundzügen bedienen
- </section>
+ 
 ---
+<!-- .slide:  data-transition="convex-in concave-out"-->
 ## Energiemanagmnet & Green IT
 Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
 
@@ -41,6 +43,8 @@ Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
   * Arten und Eigenschaften erneuerbarer Energiequellen sowie Verfahren zu deren Nutzung kennen
   * die Verfahren der Energieaufbereitung ökologisch und technisch klassifizieren und quantitativ beurteilen
 
+---
+<!-- .slide:  data-transition="convex-in concave-out"-->
 * Energiespartechnologien
   
   * kontinuierlich und systematisch Energieeinsparpotenziale erkennen und umsetzen
