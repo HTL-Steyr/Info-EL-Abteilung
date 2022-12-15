@@ -22,39 +22,6 @@
                  data-separator-notes="^Note:"
                  data-charset="UTF-8">
             </section>
-            <section>
-            <h2>Blocks</h2>
-            <div class="w3-row">
-            <div class="w3-col m4">
-            <ul class="xx-small"><li><p>New reserved Java type <code>var</code></p></li><li><p><em>„real type“</em> inferred by compiler <strong>on first initialization</strong></p></li><li><p>can denote classes (<code>Integer</code>) &amp; primitives (<code>int</code>)</p></li><li><p><strong>only</strong>  available for <em>local variables</em></p></li></ul>
-            </div>
-            <div class="w3-col m8">
-            <pre class="xxxx-small highlight listingblock source col2"><code data-noescape="" class="java language-java hljs">/**
- * @author John Smith &lt;john.smith@example.com&gt;
-*/
-package l2f.gameserver.model;
-
-public abstract strictfp class L2Char extends L2Object {
-  public static final Short ERROR = 0x0001;
-
-  public void moveTo(int x, int y, int z) {
-    _ai = null;
-    log(&quot;Should not be called&quot;);
-    if (1 &gt; 5) { // wtf!?
-      return;
-    }
-  }
-}</code></pre>
-            </div>
-            
-            </div>
-            </section>
-            <section data-markdown="credits.md"
-                 data-separator="^--$"
-                 data-separator-vertical="^---$"
-                 data-separator-notes="^Note:"
-                 data-charset="UTF-8">
-            </section>
         </div>
     </div>
     <script src="reveal.js/dist/reveal.js"></script>
