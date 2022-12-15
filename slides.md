@@ -53,15 +53,18 @@ In dem Zweig Elektronik-IT wird
 * Software entwickelt <!-- .element: class="fragment" data-fragment-index="2" -->
 * Netzwerke gemanaged <!-- .element: class="fragment" data-fragment-index="3" -->
 --
-
+<section class="r-fit-text center">
 ## Zukunftsmöglichkeiten
 
 Die Zukunftstechnologien Elektronik und Technische Informatik sind Basis für
-* Steuerungs- und Automatisierungstechnik, <!-- .element: class="fragment" data-fragment-index="1" -->
-* Telekommunikation und Mobilfunktechnik, <!-- .element: class="fragment" data-fragment-index="2" -->
-* Computer- und Netzwerktechnik, Sicherheits- und Fahrzeugtechnik, <!-- .element: class="fragment" data-fragment-index="3" -->
-* Medizin- und Umwelttechnik und vieles andere mehr. <!-- .element: class="fragment" data-fragment-index="4" -->
 
+* Computer- und Netzwerktechniker:in <!-- .element: class="fragment" data-fragment-index="1" -->
+* Automatisierungstechniker:in <!-- .element: class="fragment" data-fragment-index="2" -->
+* Entwickler:in Fahrzeugelektronik <!-- .element: class="fragment" data-fragment-index="3" -->
+* Telekommunikationstechniker:in <!-- .element: class="fragment" data-fragment-index="4" -->
+* Audio- und Videotechniker:in <!-- .element: class="fragment" data-fragment-index="5" -->
+* Medizintechniker:in <!-- .element: class="fragment" data-fragment-index="6" -->
+* Qualitätsmanager:in <!-- .element: class="fragment" data-fragment-index="7" -->
 --
 
 ## Projekte
