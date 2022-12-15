@@ -23,15 +23,12 @@ Dieses Wahlmodul deckt die modernen Kommunikationstechnologien ab:
 
 * Internet-Technologie
   * grundlegende Netzwerkdienste installieren, konfigurieren und warten
-  * mit Hilfe aktueller Analysetools Fehler im laufenden Betrieb lokalisieren und beheben
 
 * Web-Design
   * grundlegende statische und dynamische Webseiten erstellen, veröffentlichen und warten
 
 * Audio- und Videosysteme
   * die wichtigsten Grundlagen der Akustik kennen
-  * mit geeigneten Werkzeugen Audio-Aufnahmen durchführen und nachbearbeiten
-  * Komprimierungsverfahren für Video kennen und deren Ausgabemöglichkeiten auf unterschiedlichen Medien und Plattformen anwenden
   * ein Videoschnittprogramm in den Grundzügen bedienen
  
 ---
