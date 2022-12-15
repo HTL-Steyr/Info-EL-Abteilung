@@ -65,5 +65,5 @@ Die Zukunftstechnologien Elektronik und Technische Informatik sind Basis für
 --
 
 ## Projekte
-* Der Fahrende Stuhl 
+* Der fahrende Stuhl 
 <img src="http://www.htl-steyr.ac.at/cache/images/abt_e/el/e-stuhl_800x800-equal.jpg" style="width: 200px">
