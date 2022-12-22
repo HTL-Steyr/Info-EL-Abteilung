@@ -1,4 +1,4 @@
-# Elektronik Abteilung 
+# Elektronik-Abteilung 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/HTL_Steyr_Logo.jpg" class="center" style="width: 300px">
 --
 
@@ -65,4 +65,4 @@ Die Zukunftstechnologien Elektronik und Technische Informatik ist Basis für
 
 ## Projekte
 * Der fahrende Stuhl 
-<img src="http://www.htl-steyr.ac.at/cache/images/abt_e/el/e-stuhl_800x800-equal.jpg" style="width: 200px">
+<img src="http://www.htl-steyr.ac.at/cache/images/abt_e/el/e-stuhl_800x800-equal.jpg" style="width: 300px">
