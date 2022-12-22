@@ -45,25 +45,22 @@ Dieses Wahlmodul deckt die Analyse des Energieflusses und dessen Optimierung ab:
 * Green Design, Ökoelektronik
   * Energieoptimierung durch Automatisierung
 --
-## Aufgaben
+## Elektroniker: 
 
-In dem Zweig Elektronik-IT wird
-* Hardware designt <!-- .element: class="fragment" data-fragment-index="1" -->
-* Software entwickelt <!-- .element: class="fragment" data-fragment-index="2" -->
-* Netzwerke gemanaged <!-- .element: class="fragment" data-fragment-index="3" -->
+* ... entwickeln Hardware <!-- .element: class="fragment" data-fragment-index="1" -->
+* ... steuern diese mittels Software <!-- .element: class="fragment" data-fragment-index="2" -->
+* ... integrieren entworfene Konzepte in Netzwerke <!-- .element: class="fragment" data-fragment-index="3" -->
 --
 
-## Zukunftsmöglichkeiten
+## Karrierewege
 
-Die Zukunftstechnologien Elektronik und Technische Informatik sind Basis für
+Die Zukunftstechnologien Elektronik und Technische Informatik ist Basis für
 
-* Computer- und Netzwerktechniker:in <!-- .element: class="fragment" data-fragment-index="1" -->
-* Automatisierungstechniker:in <!-- .element: class="fragment" data-fragment-index="2" -->
-* Entwickler:in Fahrzeugelektronik <!-- .element: class="fragment" data-fragment-index="3" -->
-* Telekommunikationstechniker:in <!-- .element: class="fragment" data-fragment-index="4" -->
-* Audio- und Videotechniker:in <!-- .element: class="fragment" data-fragment-index="5" -->
-* Medizintechniker:in <!-- .element: class="fragment" data-fragment-index="6" -->
-* Qualitätsmanager:in <!-- .element: class="fragment" data-fragment-index="7" -->
+* Computer- und Netzwerktechniker:innen <!-- .element: class="fragment" data-fragment-index="1" -->
+* Automatisierungstechniker:innen <!-- .element: class="fragment" data-fragment-index="2" -->
+* Entwickler:innen Fahrzeugelektronik <!-- .element: class="fragment" data-fragment-index="3" -->
+* Telekommunikationstechniker:innen <!-- .element: class="fragment" data-fragment-index="4" -->
+* Medizintechniker:innen <!-- .element: class="fragment" data-fragment-index="6" -->
 --
 
 ## Projekte
